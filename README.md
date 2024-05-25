@@ -12,3 +12,6 @@
     ♦️ View Payslip
     ♦️ Show All Employees
 
+
+
+![image](https://github.com/TharulJayasundara/Employee_Management_System/assets/170612345/8b0b884c-d5f8-42aa-a6c1-f554e75cd5a6)
